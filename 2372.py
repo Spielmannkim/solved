@@ -1,0 +1,13 @@
+Chickens = int(input())
+Clydesdales = int(input())
+Cows = int(input())
+Goats = int(input())
+Streers = int(input())
+
+print("Animal      Count")
+print("-----------------")
+print("Chickens      ",Chickens)
+print("Clydesdales     ",Clydesdales)
+print("Cows           ",Cows)
+print("Goats          ",Goats)
+print("Steers          ",Streers)
